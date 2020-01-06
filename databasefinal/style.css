@@ -1,0 +1,28 @@
+body{
+    background:linear-gradient(#d7d2cc,#304352);
+}
+
+.iconsize{
+    font-size: large;
+}
+.list-group-item{
+    background-color: (255, 255, 255, 0.1);
+    
+    
+}
+.btnsize{
+    width: auto;
+    height: 34px;
+
+}
+
+.iconsize1{
+    font-size: large;
+    position: relative;
+    left: 10px;
+}
+.list-color{
+    background-color: (255, 255, 255, 0.1);
+}
+
+
